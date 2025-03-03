@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @codi-man
-- 👀 I’m interested in solving problems that require coding 
-- 🌱 I’m currently learning programming
-- 📫 How to reach me mujeebkhawaja29@gmail.com
+# 👋 Hi, I'm Khawaja Abdul Mujeeb  
+
+🎓 Final-year **Software Engineering** student at IMS, passionate about **backend development, problem-solving, and system optimization**.  
+
+💻 Tech Stack:  
+- **Languages:** JavaScript, PHP, Python  
+- **Frameworks & Libraries:** React, Flutter, Tailwind  
+- **Databases:** MySQL   
+
+🔗 **Linkedin:**  
+- [LinkedIn](https://www.linkedin.com/in/mujeeb-khawaja-24a545247/)  
+
+📫 Reach me at: **mujeebkhawaja29@gmail.com**  
